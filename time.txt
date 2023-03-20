@@ -4,6 +4,6 @@
 4-process: 322.34 (seconds) on avg.
 
 [Time measured by the Python time()]
-1-process: 316.24,  (seconds) on avg.
-2-process: TODO (seconds) on avg.
-4-process: TODO (seconds) on avg.
+1-process: 314.23 (seconds) on avg.
+2-process: 315.68 (seconds) on avg.
+4-process: 322.9 (seconds) on avg.
